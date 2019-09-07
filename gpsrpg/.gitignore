@@ -58,5 +58,5 @@ buck-out/
 # CocoaPods
 /ios/Pods/
 
-/ios/gpsrpg/AppDelegate.m <-- api key for google here
-/android/app/src/main/AndroidManifest.xml <-- api key for google here
+ios/gpsrpg/AppDelegate.m <-- api key for google here
+android/app/src/main/AndroidManifest.xml <-- api key for google here
